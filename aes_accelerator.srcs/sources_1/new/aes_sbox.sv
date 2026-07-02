@@ -40,4 +40,5 @@ module aes_sbox(
         8'h8C, 8'hA1, 8'h89, 8'h0D, 8'hBF, 8'hE6, 8'h42, 8'h68, 8'h41, 8'h99, 8'h2D, 8'h0F, 8'hB0, 8'h54, 8'hBB, 8'h16};
                      
     assign out_byte = sbox_array[in_byte];
+    
 endmodule

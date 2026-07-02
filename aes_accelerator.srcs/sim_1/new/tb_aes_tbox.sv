@@ -1,7 +1,6 @@
 `timescale 1ns / 1ps
 
 module tb_aes_sbox();
-
     logic [7:0] test_in;
     logic [7:0] test_out;
 
