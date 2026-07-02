@@ -1,0 +1,17 @@
+*.jou
+*.log
+*.str
+*.pb
+*.mti
+*.sim/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.backup.*
+*.jou
+*webtalk*
+.Xil/
+*.bit
+*.xsa
+*.dcp
