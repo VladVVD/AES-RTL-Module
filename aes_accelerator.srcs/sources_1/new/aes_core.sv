@@ -84,6 +84,7 @@ module aes_core (
                     round_n = round_p + 1;
                 end
             end
+            
             DONE: begin
                 valid_n = 1'b1;
                 state_n = INIT;

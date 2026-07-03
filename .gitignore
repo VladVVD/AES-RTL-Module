@@ -15,3 +15,13 @@
 *.bit
 *.xsa
 *.dcp
+.rigel_lopper/
+_ide/
+aes_platform/
+aes_app/
+aes_accelerator.cache/
+aes_accelerator.hw/
+aes_accelerator.sim/
+aes_accelerator.runs/
+aes_accelerator.ip_user_files/
+aes_accelerator.gen/
